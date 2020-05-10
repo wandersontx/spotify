@@ -114,6 +114,11 @@ footer ul li{
 
 }
 
+.carousel-control-next, .carousel-control-prev{
+	width: 5%;
+	
+}
+
 /*Tipografia*/
 h1{
 	font-weight: 900;
