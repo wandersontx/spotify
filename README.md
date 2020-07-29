@@ -8,7 +8,7 @@ Home Page Spotify
 <p align="center">Clone da home page do spotify</p>
 
 ### * __Features__
-  * Bootstrap(https://getbootstrap.com/):framework para desenvolvimento de sites responsivos.
+  * [Bootstrap](https://getbootstrap.com/) framework para desenvolvimento de sites responsivos.
   
 ### * __Getting started__
 * Clone esse repostiorio usando git clone https://github.com/wandersontx/spotify.git
