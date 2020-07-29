@@ -11,7 +11,7 @@ Home Page Spotify
   * [Bootstrap](https://getbootstrap.com/) framework para desenvolvimento de sites responsivos.
   
 ### * __Getting started__
-1 Clone esse repostiorio usando `git clone https://github.com/wandersontx/spotify.git`
-2 Click em index.html
+1. Clone esse repostiorio usando `git clone https://github.com/wandersontx/spotify.git` <br>
+2. Click em index.html
 
 
