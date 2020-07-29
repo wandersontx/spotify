@@ -14,3 +14,7 @@ Home Page Spotify
 * Clone esse repostiorio usando git clone https://github.com/wandersontx/spotify.git
 * Click em index.html
 
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
