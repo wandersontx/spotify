@@ -11,10 +11,6 @@ Home Page Spotify
   * [Bootstrap](https://getbootstrap.com/) framework para desenvolvimento de sites responsivos.
   
 ### * __Getting started__
-* Clone esse repostiorio usando git clone https://github.com/wandersontx/spotify.git
+* Clone esse repostiorio usando > git clone https://github.com/wandersontx/spotify.git
 * Click em index.html
 
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
